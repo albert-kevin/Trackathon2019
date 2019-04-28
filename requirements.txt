@@ -1,0 +1,16 @@
+numpy
+pandas
+modin
+pandas_profiling
+xlrd
+matplotlib
+seaborn
+sklearn
+keras
+tensorflow
+scikit-plot
+scipy
+eli5
+RISE
+py2neo
+ipython-cypher
